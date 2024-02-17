@@ -39,3 +39,21 @@ The features of a house prediction model using linear regression typically invol
    - Proximity to public transportation or major roads can impact the price, especially in urban areas.
 
 When implementing a linear regression model for house price prediction, it's essential to carefully select features based on their relevance and significance. Additionally, feature engineering techniques may be applied to enhance the model's predictive power. Regularization techniques can also be used to avoid overfitting when dealing with a large number of features.
+
+### Dataset
+The dataset used for training and testing the model is sourced from [Median House Prices for California Districts](https://www.kaggle.com/datasets/camnugent/california-housing-prices) derived from the 1990 census.
+This is the dataset used in the second chapter of Aurélien Géron's recent book 'Hands-On Machine learning with Scikit-Learn and TensorFlow'. It serves as an excellent introduction to implementing machine learning algorithms because it requires rudimentary data cleaning, has an easily understandable list of variables and sits at an optimal size between being to toyish and too cumbersome.
+Be warned the data aren't cleaned so there are some preprocessing steps required! The columns are as follows, their names are pretty self explanitory:
+
+- longitude
+- latitude
+- housing_median_age
+- total_rooms
+- total_bedrooms
+- population
+- households
+- median_income
+- median_house_value
+- ocean_proximity
+
+### Model Training
