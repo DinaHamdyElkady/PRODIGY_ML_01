@@ -78,5 +78,6 @@ House prediction using linear regression is a common application in the field of
 
 8. ***Data-Driven Decision-Making***: Linear regression provides a systematic and data-driven approach to decision-making in the real estate industry. This can lead to more objective and accurate predictions compared to relying solely on intuition or experience.
 
+
 In summary, house prediction using linear regression is crucial for various stakeholders in the real estate industry, providing them with valuable insights for decision-making, risk assessment, and market analysis.
 Also, it is a fundamental model for house prediction utilizing linear regression that may benefit from refinements and enhanced accuracy.
