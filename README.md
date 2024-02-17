@@ -57,6 +57,26 @@ Be warned the data aren't cleaned so there are some preprocessing steps required
 - ocean_proximity
 
 ### Model Training :-
-The linear regression model is trained using the scikit-learn library. The training script (`train_model.py`) preprocesses the dataset, splits it into training and testing sets, and then trains the model on the features.
+The linear regression model is trained using the scikit-learn library. The training script `train_model.py` preprocesses the dataset, splits it into training and testing sets, and then trains the model on the features.
 
+### Usage :-
+House prediction using linear regression is a common application in the field of machine learning and data analysis. Linear regression is a statistical method that models the relationship between a dependent variable (such as house price) and one or more independent variables (features like square footage, number of bedrooms, location, etc.). Here are some key reasons why house prediction by linear regression is important:
 
+1. ***Real Estate Valuation***: Linear regression can help in estimating the value of a house based on various features. Real estate professionals, homeowners, and potential buyers can use these predictions to make informed decisions about buying or selling properties.
+
+2. ***Investment Decision-Making***: Investors in real estate use house prediction models to assess potential returns on investment. By analyzing historical data and relevant features, linear regression can provide insights into the potential appreciation or depreciation of property values.
+
+3. ***Market Trends and Analysis***: Linear regression models can be used to analyze market trends. By examining the relationship between housing prices and various factors, analysts and policymakers can gain insights into the health of the real estate market and identify patterns or anomalies.
+
+4. ***Risk Assessment***: Lenders and financial institutions use linear regression to assess the risk associated with mortgage lending. Predictive models help in evaluating the likelihood of default based on factors such as the borrower's credit history, income, and property value.
+
+5. ***Property Appraisal***: Linear regression can assist appraisers in determining the fair market value of a property. This is essential for tax assessments, insurance coverage, and other financial considerations.
+
+6. ***Personal Budgeting***: For individuals looking to buy or sell a house, linear regression models can provide a realistic estimate of the property's value. This information is valuable for budgeting and financial planning.
+
+7. ***Improving Property Features***: By understanding the impact of different features on the house price, homeowners and property developers can make informed decisions about renovations and improvements that are likely to increase the property's value.
+
+8. ***Data-Driven Decision-Making***: Linear regression provides a systematic and data-driven approach to decision-making in the real estate industry. This can lead to more objective and accurate predictions compared to relying solely on intuition or experience.
+
+In summary, house prediction using linear regression is crucial for various stakeholders in the real estate industry, providing them with valuable insights for decision-making, risk assessment, and market analysis.
+Also, it is a fundamental model for house prediction utilizing linear regression that may benefit from refinements and enhanced accuracy.
